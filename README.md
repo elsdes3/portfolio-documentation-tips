@@ -25,7 +25,7 @@ In this project, the bikeshare ridership data will be used to develop a ML model
 
 ## [Requirements](#requirements)
 This project requires the following
-1. [Python 3.10.2](https://www.python.org/downloads/)
+1. [Python 3.10.2](https://www.python.org/downloads/release/python-3102/)
 2. Google Chrome version 97.0.4692.71
 3. [Google Chrome web driver version 97.0.4692.71](https://chromedriver.chromium.org/downloads)
 
