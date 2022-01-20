@@ -9,7 +9,8 @@ This repository contains materials to support a talk about data science portfoli
    - [Objectives](#objectives)
 2. [Requirements](#requirements)
 3. [Usage](#usage)
-4. [Project Organization](#project-organization)
+4. [Notebooks](#notebooks)
+5. [Project Organization](#project-organization)
 
 ## [About](#about)
 ### [Background](#background)
@@ -45,6 +46,13 @@ This project requires the following
      ```bash
      $ pip3 install -r requirements.txt
      ```
+
+## [Notebooks](#notebooks)
+1. `01_dont_do_this.ipynb` ([view](https://nbviewer.org/github/elsdes3/portfolio-documentation-tips/blob/main/01_dont_do_this.ipynb))
+   - retrieve bikeshare data in poorly structured notebook
+   - don't use this approach
+2. `02_get_data.ipynb` ([view](https://nbviewer.org/github/elsdes3/portfolio-documentation-tips/blob/main/02_get_data.ipynb))
+   - retrieve bikeshare data in a notebook with documentation, improved structure and formatted contents
 
 ## [Project Organization](#project-organization)
 
