@@ -53,13 +53,14 @@ This project requires the following
    - don't use this approach
 2. `02_get_data.ipynb` ([view](https://nbviewer.org/github/elsdes3/portfolio-documentation-tips/blob/main/02_get_data.ipynb))
    - retrieve bikeshare data in a notebook with documentation, improved structure and formatted contents
+3. `03_delete_data.ipynb` ([view](https://nbviewer.org/github/elsdes3/portfolio-documentation-tips/blob/main/03_delete_data.ipynb))
+   - delete all raw and processed data files and data folders that were used in this project
 
 ## [Project Organization](#project-organization)
 
-    ├── 01_dont_do_this.ipynb       <- Jupyter notebooks; naming convention is a prefix
+    ├── *.ipynb                     <- Jupyter notebooks; naming convention is a prefix
     |                                  followed by a `-` delimiter and short description of
     |                                  the tasks performed in the notebook.
-    ├── 02_get_data.ipynb
     ├── data
     │   ├── processed               <- prepared data, ready to use for quantitative analysis.
     │   └── raw                     <- raw data; should never be changed.
